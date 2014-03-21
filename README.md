@@ -6,16 +6,16 @@ A collection of C language discoveries / innovations made during practice
 <b>CandidateFiles</b>
  Program Specification: This program takes data containing County Candidate details
                          and writes them to an initial input file, after which the
-                         data is sequencially sorted and written onto a different output file.
-  Special Features: use of functions: fopen(), fclose(), "r", "w", "a" as well as fprintf() and
-                         fscanf().
-  Date Written:16th August, 2013: Friday
+                         data is sequencially sorted and written onto a different output file.<br><br>
+  Special Features:<br>Use of functions: fopen(), fclose(), "r", "w", "a" as well as fprintf() and
+                         fscanf().<br>
+  Date Written:16th August, 2013: Friday<br>
   Date Last Compiled: 21th August, 2013: Wednesday
   
 <b>Candidate_Registration</b>
-Program Specification: This program takes candidates' ID numbers and country code as input and outputs a table bearing information on the candidate's Name, ID No., Country Code and Country.
-  Special Features: Use of two dimentional arrays
-  Date Written: 27th July, 2013
+Program Specification: This program takes candidates' ID numbers and country code as input and outputs a table bearing information on the candidate's Name, ID No., Country Code and Country.<br><br>
+  Special Features: Use of two dimentional arrays<br>
+  Date Written: 27th July, 2013<br>
   Date Last Compiled: 29th July, 2013
   
 <b>NappierGrass(PROJECT)</b>
@@ -62,24 +62,24 @@ To be adhered to:
   Special Features: use of functions: fopen(), fclose(), "w" as well as fprintf() and
                          fscanf().
   Date Written:21th August, 2013: Wednesday
-  Date Last Compiled: 21th August, 2013: Wednesday
+  Date Last Compiled: 21th August, 2013: Wednesday<br>
 
 <b>Random Distribution</b>
 Program Specification: Genrates random numbers(seedling heights) between 3 and 5 and populates a two-dimentional array
-                         of 100 by 100 and calculates:
-                         i) The average height for each row
-                        ii) The average heights for each column
-                       iii) The total average
-                        iv) The number of seedlings with height above average
+                         of 100 by 100 and calculates:<br>
+                         i) The average height for each row<br>
+                        ii) The average heights for each column<br>
+                       iii) The total average<br>
+                        iv) The number of seedlings with height above average<br><br>
 
-  Special Features:      i)Use of two dimentional arrays.
-                        ii)Use of a random generator
-                       iii)Nested for loops
-  Date Written:27th July, 2013
-  Date Last Compiled: 4th August, 2013
+  Special Features:      i)Use of two dimentional arrays.<br>
+                        ii)Use of a random generator<br>
+                       iii)Nested for loops<br>
+  Date Written:27th July, 2013<br>
+  Date Last Compiled: 4th August, 2013<br>
   
 <b>shutcomp</b>
-Program Specification: Shuts down the computer immediately without saving any files or sessions. Could be useful for preventing breech of security, ot not :P
+Program Specification: Shuts down the computer immediately without saving any files or sessions. Could be useful for preventing breech of security, or not :P . WARNING: Be careful with this code. Save all your work before running it.
 
 <b>simpleHomemadeTokenizer</b>
 Simple Homemade Tokenizer instead of using the strtok() function in C
